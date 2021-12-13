@@ -1,0 +1,11 @@
+F:\Arduino\Get data from Arduino and display it in windows forms\Windows forms (microsoft visual studio)\C#\get_data_from_arduino\bin\Debug\get_data_from_arduino.exe.config
+F:\Arduino\Get data from Arduino and display it in windows forms\Windows forms (microsoft visual studio)\C#\get_data_from_arduino\bin\Debug\get_data_from_arduino.exe
+F:\Arduino\Get data from Arduino and display it in windows forms\Windows forms (microsoft visual studio)\C#\get_data_from_arduino\bin\Debug\get_data_from_arduino.pdb
+F:\Arduino\Get data from Arduino and display it in windows forms\Windows forms (microsoft visual studio)\C#\get_data_from_arduino\obj\Debug\get_data_from_arduino.csproj.AssemblyReference.cache
+F:\Arduino\Get data from Arduino and display it in windows forms\Windows forms (microsoft visual studio)\C#\get_data_from_arduino\obj\Debug\get_data_from_arduino.csproj.SuggestedBindingRedirects.cache
+F:\Arduino\Get data from Arduino and display it in windows forms\Windows forms (microsoft visual studio)\C#\get_data_from_arduino\obj\Debug\get_data_from_arduino.Form1.resources
+F:\Arduino\Get data from Arduino and display it in windows forms\Windows forms (microsoft visual studio)\C#\get_data_from_arduino\obj\Debug\get_data_from_arduino.Properties.Resources.resources
+F:\Arduino\Get data from Arduino and display it in windows forms\Windows forms (microsoft visual studio)\C#\get_data_from_arduino\obj\Debug\get_data_from_arduino.csproj.GenerateResource.cache
+F:\Arduino\Get data from Arduino and display it in windows forms\Windows forms (microsoft visual studio)\C#\get_data_from_arduino\obj\Debug\get_data_from_arduino.csproj.CoreCompileInputs.cache
+F:\Arduino\Get data from Arduino and display it in windows forms\Windows forms (microsoft visual studio)\C#\get_data_from_arduino\obj\Debug\get_data_from_arduino.exe
+F:\Arduino\Get data from Arduino and display it in windows forms\Windows forms (microsoft visual studio)\C#\get_data_from_arduino\obj\Debug\get_data_from_arduino.pdb
